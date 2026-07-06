@@ -83,12 +83,11 @@
 
 ## 🔥 Featured Projects
 
-| Project | Stack | Live |
+| Project | Stack | Link |
 |---------|-------|------|
-| [Shewell – Women's Health Platform](https://shewellofficial.com) | Next.js, PostgreSQL, Prisma, Razorpay | [🔗 Live](https://shewellofficial.com) |
+| [Billing App](https://github.com/BarathWorks/bill-app) | Flutter, Dart, Hive, BLoC, Bluetooth Printing | [📱 Repo](https://github.com/BarathWorks/bill-app) |
 | [Expense Tracker](https://github.com/BarathDevLab/Expense_Tracker) | React, Node.js, MongoDB, Docker | [🔗 Live](https://expense-tracker-orpin-six.vercel.app) |
-| [ThyroSense AI](https://github.com/BarathDevLab/thyrosense-ai-glow) | Next.js, TypeScript, Gemini AI | [🔗 Live](https://portfolio-v2-tawny-kappa.vercel.app) |
-| [Cowshik AI – Cattle Classifier](https://github.com/BarathDevLab/cattle_classsifier) | Flutter, YOLOv8, MobileNetV3 | [📱 APK](https://github.com/BarathDevLab/cattle_classsifier) |
+| [Cowshik AI – Cattle Classifier](https://github.com/BarathDevLab/cattle_classsifier) | Flutter, YOLOv8, MobileNetV3 | [📱 Repo](https://github.com/BarathDevLab/cattle_classsifier) |
 | [Self-Hosted Homelab](https://barath.systems) | Proxmox, Docker, Oracle Cloud, Tailscale | [🔗 Live](https://barath.systems) |
 | [NuTPAM 2K25](https://github.com/BarathDevLab/nutpam2K25) | React.js, TypeScript | [🔗 Live](https://nutpam2k25.vercel.app) |
 
@@ -110,8 +109,6 @@
 ## 🏆 Achievements
 
 - 🥉 **3rd Place – AI Ascend Hackathon 2026** — Rs. 15,000 prize for AWS-based solution
-- 🤖 **IBM SkillsBuild** – AI for Sustainability Certification (40+ hours)
-- 🏢 **MSME Registered** – AQRO (AI/ML/IoT micro-enterprise)
 
 ---
 
